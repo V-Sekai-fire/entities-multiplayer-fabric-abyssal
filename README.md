@@ -12,4 +12,4 @@ Open `project.godot` in a Godot editor built with the multiplayer fabric's modul
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
